@@ -1,0 +1,14 @@
+
+# Count Dart files in language statistics
+*.dart linguist-detectable=true
+
+# Exclude native and generated files from language statistics
+*.cpp linguist-vendored
+*.cc linguist-vendored
+*.cxx linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+*.c linguist-vendored
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
+*.swift linguist-vendored
