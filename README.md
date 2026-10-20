@@ -91,6 +91,17 @@ The project uses separate services and models to organize its functionality.
 - [ ] Enhance the workout experience with smartwatch notifications.
 - [ ] Explore adaptive workout stages in future versions.
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="screenshots/screen1.jpg" width="200"/>
+    <img src="screenshots/screen2.jpg" width="200"/>
+    <img src="screenshots/screen3.jpg" width="200"/>
+    <img src="screenshots/screen4.jpg" width="200"/>
+    <img src="screenshots/screen5.jpg" width="200"/>
+    <img src="screenshots/screen6.jpg" width="200"/>
+</p>
+
 ## 🤝 Contributing
 
 Suggestions, bug reports, and contributions are welcome. Feel free to open an issue or submit a pull request.
